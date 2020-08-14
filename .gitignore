@@ -19,6 +19,6 @@
 .DS_Store
 
 # bash 
-backup_
-sync_
+backup_*
+sync_*
 log
