@@ -11,14 +11,15 @@
 *.jpeg
 *.png
 *.pdf
-*,svg
+*.svg
 *.tif
 *.tiff
+*.mp4
 
 # macos
 .DS_Store
 
 # bash 
-backup_*
-sync_*
+backup_
+sync_
 log
